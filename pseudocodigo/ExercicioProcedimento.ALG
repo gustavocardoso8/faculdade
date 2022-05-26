@@ -18,7 +18,7 @@ Inicio
 
       Escreval("Informe o primeiro número: ")
       leia(pri)
-      Escreval("Agora, informe o segunro número, para que possamos multiplicar: ")
+      Escreval("Agora, informe o segundo número, para que possamos multiplicar: ")
       leia(seg)
       multi
           escreva ("O resultado da multiplicação é: ", res)
